@@ -1,0 +1,18 @@
+﻿Sorry, there was a problem downloading some files from OneDrive. Please try again.
+
+App.g.hpp - https://onedrive.live.com/?cid=3874518114afdd41&id=3874518114AFDD41%2157192&action=Download
+
+MainPage.g.hpp - https://onedrive.live.com/?cid=3874518114afdd41&id=3874518114AFDD41%2157193&action=Download
+
+UnivWasapiCapture2.winmd.lastbuild - https://onedrive.live.com/?cid=3874518114afdd41&id=3874518114AFDD41%2157255&action=Download
+
+pri.resfiles - https://onedrive.live.com/?cid=3874518114afdd41&id=3874518114AFDD41%2157237&action=Download
+
+pri.resfiles.intermediate - https://onedrive.live.com/?cid=3874518114afdd41&id=3874518114AFDD41%2157236&action=Download
+
+resources.resfiles - https://onedrive.live.com/?cid=3874518114afdd41&id=3874518114AFDD41%2157235&action=Download
+
+resources.resfiles.intermediate - https://onedrive.live.com/?cid=3874518114afdd41&id=3874518114AFDD41%2157234&action=Download
+
+
+
